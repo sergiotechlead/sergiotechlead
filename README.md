@@ -1,12 +1,10 @@
 ## Hey there, I'm Sergio <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-**Full Stack Developer & Technical Lead** in Bogotá, Colombia 🇨🇴. I build fast, reliable e-commerce experiences with React, Node.js, and VTEX. Currently Consultant / Engineer at [Valtech](https://www.valtech.com/).
+**Full Stack Developer & Technical Lead** in Bogotá, Colombia 🇨🇴. I build fast, reliable e-commerce experiences with React, Node.js, and VTEX, from architecture to pixel-level detail.
 
 [![Website](https://img.shields.io/badge/-serbeld.space-6daaf5?style=flat-square&logo=googlechrome&logoColor=white)](https://www.serbeld.space)
 [![LinkedIn](https://img.shields.io/badge/-serbeld-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serbeld/)
 [![Instagram](https://img.shields.io/badge/-sergio.techlead-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sergio.techlead)
-[![Gmail](https://img.shields.io/badge/-serbeldiaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:serbeldiaz@gmail.com)
-[![Calendly](https://img.shields.io/badge/-Book%20a%2030%20min%20call-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/serbeldiaz/30min)
 
 ## ⚡ Technologies
 
